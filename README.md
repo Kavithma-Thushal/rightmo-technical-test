@@ -8,3 +8,7 @@
 ### Read CSV
 
 * Open your browser and navigate to `http://localhost/rightmo-technical-test/read_csv/read_csv.php`
+
+### Import to database
+
+* Open your browser and navigate to `http://localhost/rightmo-technical-test/1/a/import_to_database.php`
