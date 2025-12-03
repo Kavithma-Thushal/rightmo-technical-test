@@ -20,3 +20,19 @@
 ### Subject Analysis
 
 * Open your browser and navigate to `http://localhost/rightmo-technical-test/2/subject_analysis.php`
+
+### Read CSV
+
+<img src="ss/read_csv.png">
+
+### Import to Database
+
+<img src="ss/import_to_database.png">
+
+### Student Ranking
+
+<img src="ss/student_ranking.png">
+
+### Subject Analysis
+
+<img src="ss/subject_analysis.png">
